@@ -37,3 +37,7 @@ function calculate() {
   let ansss = (p * r * t) / 100;
   ans.innerHTML = ansss;
 }
+
+
+
+"test "
