@@ -1,5 +1,3 @@
-* bug-fix-typo
-  main
-  remotes/origin/HEAD -> origin/main
-  remotes/origin/bug-fix-typo
-  remotes/origin/main
+* main
+  bug-fix-typo
+  bug-fix-revert
